@@ -8,7 +8,7 @@ If you play this game, download this project and run the "Cross.exe" file
   
 Please note that this is an early development work, so the code or work contents may look somewhat messy  
 And, If you going to play this game **please check the screen resolution 1400 X 1050**  
-* Watch Game Play Video : <a href="https://youtu.be/nnNUHYsE0yI"><img src="https://img.shields.io/badge/YouTube-FF0000?style=flat-square&logo=youtube&logoColor=white"/>  
+* Watch Game Play Video : <a href="https://youtu.be/x8W4xww6IQw"><img src="https://img.shields.io/badge/YouTube-FF0000?style=flat-square&logo=youtube&logoColor=white"/>  
 
 ### How to play
 * The rules are pretty much the same if you know the game "Crossy Road".
@@ -37,7 +37,7 @@ And, If you going to play this game **please check the screen resolution 1400 X 
   
 참고로 첫 Unity 팀 프로젝트여서 코드 등의 프로젝트 내용이 다소 난잡해 보일 수 있다는 점 이해바랍니다.  
 그리고 게임 플레이 시 **화면 비율(screen resolution)을 1400 X 1050으로 맞춰주세요**  
-* 게임 플레이 영상 보기 : <a href="https://youtu.be/nnNUHYsE0yI"><img src="https://img.shields.io/badge/YouTube-FF0000?style=flat-square&logo=youtube&logoColor=white"/>  
+* 게임 플레이 영상 보기 : <a href="https://youtu.be/x8W4xww6IQw"><img src="https://img.shields.io/badge/YouTube-FF0000?style=flat-square&logo=youtube&logoColor=white"/>  
 
 ### 플레이 방법
 * "길건너 친구들" 게임을 아신다면 규칙은 거의 같습니다. 하지만 이 게임은 끝이 존재합니다.
